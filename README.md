@@ -1,0 +1,1 @@
+Nesse projeto foi usado html, css e javascript. Foi feito com o intuito de fixar o aprendizado que venho tendo no curso de javascript, melhorar minhas práticas de html, css, lógica de programação e resolução de problemas e aprimorar meus conhecimentos.
